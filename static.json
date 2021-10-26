@@ -2,6 +2,7 @@
 "headers":{
   "/*":{
     "X-Author":"orlovq12",
+    "Access-Control-Allow-Origin":"*"
     }
   }
 }
